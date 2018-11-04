@@ -2,7 +2,6 @@
   "name": "search-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Larrygf02.github.io/search-book/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
@@ -17,6 +16,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://larrygf02.github.io/search-book/",
   "eslintConfig": {
     "extends": "react-app"
   },
